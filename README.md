@@ -1,2 +1,2 @@
-# webconf_2019_references
-All the information that the speakers wished to share in Webconf 2019
+# slides_2019
+All the information that speakers wished to share in Webconf 2019
