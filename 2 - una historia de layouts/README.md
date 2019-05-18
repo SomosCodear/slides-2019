@@ -1,6 +1,9 @@
 ## Disertante
 
-Pedro Sonzini Astudillo
+### Pedro Sonzini Astudillo
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/pedro-sonzini-astudillo.jpg" alt="drawing" width="200"/>
+
 
 ## Descripción
 

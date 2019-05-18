@@ -1,6 +1,8 @@
 ## Disertante
 
-Joel Villarreal Bertoldi
+### Joel Villarreal Bertoldi
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/joel-villarreal-bertoldi.jpg" alt="drawing" width="200"/>
 
 ## Descripción
 

@@ -1,6 +1,8 @@
 ## Disertante
 
-Pablo Fernández
+### Pablo Fernández
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/pablo-fernandez.jpg" alt="drawing" width="200"/>
 
 ## Descripción
 

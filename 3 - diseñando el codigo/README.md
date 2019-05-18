@@ -1,6 +1,8 @@
 ## Disertante
 
-Nabila Gudiño Ochoa
+### Nabila Gudiño Ochoa
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/nabila-gudino.jpg" alt="drawing" width="200"/>
 
 ## Descripción
 

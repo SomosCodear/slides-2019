@@ -1,6 +1,8 @@
 ## Disertante
 
-Santiago Barchetta
+### Santiago Barchetta
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/santiago-barchetta.jpg" alt="drawing" width="200"/>
 
 ## Descripción
 

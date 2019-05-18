@@ -1,6 +1,8 @@
 ## Disertante
 
-Alexis Monsech Páez
+### Alexis Monsech Páez
+
+<img src="https://raw.githubusercontent.com/WebConfTech/website-2019/master/src/assets/images/speakers/alexis-monsech-paez.jpg" alt="drawing" width="200"/>
 
 ## Descripción
 
