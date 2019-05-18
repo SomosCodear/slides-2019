@@ -8,3 +8,6 @@
 
 Una historia sobre la infancia y adolescencia del front-end, intentando explicar cómo este ámbito del desarrollo Web llegó a ser lo que es hoy.
 
+## Slides
+
+http://slides.com/joelalejandrovillarrealbertoldi/webconf2019-keynote
