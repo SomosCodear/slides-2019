@@ -8,3 +8,6 @@
 
 Veremos parte por parte cómo se constituye una Progressive Web App, desde service workers y manifests hasta Workbox.
 
+## Slides
+
+http://bit.ly/2wuqDE6
