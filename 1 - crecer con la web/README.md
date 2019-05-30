@@ -10,4 +10,4 @@ Una historia sobre la infancia y adolescencia del front-end, intentando explicar
 
 ## Slides
 
-http://slides.com/joelalejandrovillarrealbertoldi/webconf2019-keynote
+http://bit.ly/2Ic2R4T
