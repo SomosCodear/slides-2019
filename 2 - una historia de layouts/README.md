@@ -12,6 +12,8 @@ Vamos a recorrer la historia desde el punto de vista del desarrollador a la hora
 
 ## Slides / Repo
 
-http://bit.ly/2Qvreyu
+http://bit.ly/30VzSey
+
+https://github.com/tretapey/webconf-talk
 
 
